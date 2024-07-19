@@ -5,8 +5,8 @@ Hello! I'm Er-F, a passionate developer with a keen interest in [your interests 
 # Repositories
 Here are some of my projects on GitHub:
 
-- Porject 1: 
-- Project 2: [Analyzing LinkedIn Job Listings.](https://github.com/Er-F/02_Project_Analysis)
+- Porject 1: [Analyzing LinkedIn Job Listings.](https://github.com/Er-F/02_Project_Analysis)
+- Project 2: [Analyzing LinkedIn Job Listings - Topic & Sentiment Calculations](https://github.com/Er-F/02_Project_Analysis)
 - Repo 3: Brief description of Repo 3.
 
 # Other Projects
