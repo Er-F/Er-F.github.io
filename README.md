@@ -1,8 +1,11 @@
-# Introduction 
+## Hello, welcome to my  GitHub page! 
 
-Hello! I'm Er-F, a passionate developer with a keen interest in [your interests or specialties]. Welcome to my personal GitHub page where I showcase my repositories and other projects.
+ [My GitHub Profile](https://github.com/Er-F)
 
-# Repositories
+I am a hobby Data Scientist who enjoy coding and doing projects on my spare time (outside of work). 
+Have a look at the links to my repositories below, where I showcase several interesting projects related to 
+
+## Repositories
 Here are some of my projects on GitHub:
 
 - Porject 1: [Analyzing LinkedIn Job Listings.](https://github.com/Er-F/02_Project_Analysis)
